@@ -140,5 +140,4 @@ Understanding which property types dominate each region explains local market be
 - Dataset provides strong insights for **buyers, investors, and policymakers**
 
 ### *Note:*
-
-Workbooks are attached and seperated by question. Each workbook contains two visualizations. PDF for presentation is also attached.
+Workbooks have been attached to ELC since the files are too big for Github. PDF for presentation has been attached.
